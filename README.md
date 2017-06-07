@@ -1,0 +1,1 @@
+# spnego-client-jna-sspi
